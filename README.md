@@ -19,7 +19,10 @@ Projeto desenvolvido utilizando a linguagem **Java** para criar um jogo mobile d
 - Interface amigável e responsiva
 
 ## 🧑‍💻 Desenvolvido por
--Nome: Ryan Gama Duarte
--RA: 2845789
--Disciplina: Computação para dispositivos móveis
--Instituição: Faculdades Metropolitanas Unidas (FMU)
+
+- Nome: Ryan Gama Duarte
+- RA: 2845789
+- Disciplina: Computação para dispositivos móveis
+- Instituição: Faculdades Metropolitanas Unidas (FMU)
+
+- 
