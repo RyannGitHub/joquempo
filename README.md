@@ -24,5 +24,3 @@ Projeto desenvolvido utilizando a linguagem **Java** para criar um jogo mobile d
 - RA: 2845789
 - Disciplina: Computação para dispositivos móveis
 - Instituição: Faculdades Metropolitanas Unidas (FMU)
-
-- 
